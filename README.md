@@ -1,2 +1,2 @@
-# mabooia-io
+# com.mabooia.io
 Mabooia IO lib
